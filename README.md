@@ -96,12 +96,12 @@ Article Detail Page
 
 
 ## Technologies
-* Python 3.6
+* Python 3.6 (python 3.10 coming soon)
 * Javascript
 * Jquery 
 * Ajax
 * PrismJS
-* Django 3
+* Django 3 ( Django 4 coming soon)
 * HTML5
 * CSS3 
 * Bootstrap 4
